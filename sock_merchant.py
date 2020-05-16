@@ -12,7 +12,7 @@ import sys
 def sockMerchant(n, ar):
     l=[]
     ar1=list(set(ar))
-    print(ar1)
+    #print(ar1)
     for i in ar1:
         print(ar.count(i))
         if ar.count(i)>=2:
