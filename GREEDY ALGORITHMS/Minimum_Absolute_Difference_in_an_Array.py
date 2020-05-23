@@ -1,3 +1,8 @@
+#GREEDY ALGORITHMS
+#MINIMUM ABSOLUTE DIFFERENCE IN A ARRAY
+
+
+
 #!/bin/python3
 
 import math
