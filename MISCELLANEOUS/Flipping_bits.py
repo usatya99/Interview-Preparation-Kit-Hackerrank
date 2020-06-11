@@ -1,3 +1,8 @@
+#MISCELLANEOUS
+#FLIPPING BITS
+
+
+
 #!/bin/python3
 
 import math
