@@ -1,4 +1,4 @@
 # INTERVIEW PREPARITON KIT HACKERRANK.
-# PROBLEMS
+# Problems
 # Solutions in PYTHON LANGUAGE.
 # https://www.hackerrank.com/interview/interview-preparation-kit
